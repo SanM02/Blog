@@ -15,7 +15,7 @@ const ListBlogHeader = () => {
                     </div>
                 </div>
                 <div className='main-container header-text'>
-                    <p>El mejor Blog sobre el mejor deporte del mundo</p>
+                    <p>El mejor deporte del mundo</p>
                 </div>
             </div>
         </header>

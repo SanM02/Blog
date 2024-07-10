@@ -15,7 +15,7 @@ const HomeHeader = () => {
                     </div>
                 </div>
                 <div className='main-container header-text'>
-                    <p>El mejor Blog de Futbol</p>
+                    <p>Blog de Futbol</p>
                 </div>
             </div>
         </header>
