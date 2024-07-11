@@ -15,8 +15,8 @@ app.use(helmet({
       defaultSrc: ["'self'"],
       scriptSrc: ["'self'", "'unsafe-inline'", "https://cdn.jsdelivr.net"],
       styleSrc: ["'self'", "'unsafe-inline'", "https://cdn.jsdelivr.net", "https://fonts.googleapis.com"],
-      imgSrc: ["'self'", "data:", "http://localhost:4000"],  // Ajusta esto según tus necesidades
-      connectSrc: ["'self'", "http://localhost:4000"],
+      imgSrc: ["'self'", "data:", "http://localhost:4001"],  // Ajusta esto según tus necesidades
+      connectSrc: ["'self'", "http://localhost:4001"],
       fontSrc: ["'self'", "https://cdn.jsdelivr.net", "https://fonts.gstatic.com"],  // Ajusta esto según tus necesidades
       // Agrega más directivas según tus necesidades
     },
